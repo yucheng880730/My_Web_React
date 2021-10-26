@@ -33,7 +33,7 @@ class Activity extends Component {
       },
       {
         id: "5",
-        title: "中正大學雄友會 - 返鄉服務隊輔組組長",
+        title: "志工服務 - 返鄉服務隊輔組組長",
         content:
           "帶著學弟妹，寒假期間到美濃的東門國小。帶著小朋友們上手作課程以及進行戶外大地遊戲。身為隊輔組長，學期中每次開會、籌會針對每位組員的需要，給予不同方面的建議。",
         img: "../../images/event/KH.jpg",
@@ -42,30 +42,6 @@ class Activity extends Component {
   };
 
   render() {
-    // if (this.props.data) {
-    //   var events = this.props.data.events.map(function (projects) {
-    //     var eventImage = "images/event/" + events.image;
-    //     return (
-    //       <div key={events.title} className="columns portfolio-item">
-    //         <div className="item-wrap">
-    //           <a href={events.url} title={events.title}>
-    //             <img alt={events.title} src={eventImage} />
-    //             <div className="overlay">
-    //               <div className="portfolio-item-meta">
-    //                 <h5>{events.title}</h5>
-    //                 <p>{events.category}</p>
-    //               </div>
-    //             </div>
-    //             <div className="link-icon">
-    //               <i className="fa fa-link"></i>
-    //             </div>
-    //           </a>
-    //         </div>
-    //       </div>
-    //     );
-    //   });
-    // }
-
     const { events } = this.state;
     console.log(events);
 

@@ -1119,23 +1119,54 @@ footer .social-links li:first-child {
   background-color: #0f9095;
 }
 
-.details {
-  /* display: flex; */
-  justify-content: space-around;
-  flex-wrap: wrap;
-  padding: 30px 30%;
-}
+/* .details {
+  width: 100%;
+  height: auto;
+  padding: 5%;
+} */
 
-.events-title {
-  padding-left: 40%;
-  width: max-content;
+/* .big-imgs {
+  margin-left: 10%;
+  float: left;
+  height: 40%;
+  width: 40%;
+} */
+
+/* .events-title {
+  margin-right: 10%;
+} */
+
+/* .events-content {
+  margin-right: 10%;
+} */
+
+.header-text-background {
+  background-color: rgba(255, 255, 255, 0.5);
 }
 
 .big-imgs {
-  float: left;
+  margin-left: 20%;
 }
 
-.events-content {
-  padding-left: 40%;
-  width: 1000px;
+.big-imgs,
+.box {
+  margin-left: 30%;
+  display: inline-block; /* make them in one line */
+  word-wrap: break-word; /* break very long words */
+  vertical-align: middle; /* vertical centering */
+  padding-top: 5%;
+  /* text-align: center; */
+}
+
+.box {
+  width: 30%;
+  margin-left: 30px;
+}
+
+.big-imgs .box {
+  padding: 3%;
+}
+
+.div .details {
+  justify-content: center;
 }
