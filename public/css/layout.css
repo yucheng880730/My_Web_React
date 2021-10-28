@@ -1119,6 +1119,10 @@ footer .social-links li:first-child {
   background-color: #0f9095;
 }
 
+/* ------------------------------------------------------------------ */
+/* i. Activity
+/* ------------------------------------------------------------------ */
+
 /* .details {
   width: 100%;
   height: auto;
@@ -1169,4 +1173,30 @@ footer .social-links li:first-child {
 
 .div .details {
   justify-content: center;
+}
+
+/* ------------------------------------------------------------------ */
+/* i. RWD 響應是網頁
+/* ------------------------------------------------------------------ */
+
+@media only screen and (max-width: 769px) {
+  .big-imgs {
+    display: block;
+    width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .events-title {
+    padding-right: 2px;
+    white-space: nowrap;
+    text-align: center;
+    font-size: 25px;
+  }
+
+  .events-content {
+    padding-right: 1pc;
+    width: 350px;
+    word-wrap: break-word;
+  }
 }
