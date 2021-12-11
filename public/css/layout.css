@@ -299,7 +299,8 @@ ul#nav li.current a {
 }
 
 .education,
-.work {
+.work,
+.certificate {
   margin-bottom: 48px;
   padding-bottom: 24px;
   border-bottom: 1px solid #e8e8e8;
@@ -1187,7 +1188,7 @@ footer .social-links li:first-child {
 /* i. RWD 響應是網頁
 /* ------------------------------------------------------------------ */
 
-@media only screen and (max-width: 770px) {
+@media only screen and (max-width: 750px) {
   .big-imgs {
     display: block;
     width: 65%;
@@ -1197,7 +1198,7 @@ footer .social-links li:first-child {
 
   .events-title {
     padding-right: 2px;
-    white-space: nowrap;
+    word-wrap: break-word;
     text-align: center;
     font-size: 25px;
   }
