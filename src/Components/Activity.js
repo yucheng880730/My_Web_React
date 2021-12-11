@@ -5,9 +5,9 @@ class Activity extends Component {
     events: [
       {
         id: "1",
-        title: "Site2020國際經貿事務研習營",
+        title: "Seminar on International Trade and Economy 2020",
         content:
-          "大三升大四暑假有幸通過審核參加「Site 2020 國際經貿研習營」，活動中除了要分組開模擬 APEC 會議討論時事外，也請了業界前輩分享新冠疫情下經貿的衝擊和轉變。讓我了解世界情勢變化的快速，必須時時砥礪自己走在時代的尖端。",
+          "Had the honor to participate in this camp during the summer vacation，In addition to group meetings to discuss current affairs, they also invited seniors in the industry to share the impact and changes of economics and trade under the new crown epidemic.Let me understand that the world situation is changing fast, and I must always keep myself at the forefront of the times.",
         img: "../../images/event/Site.jpg",
       },
       {
@@ -19,7 +19,7 @@ class Activity extends Component {
       },
       {
         id: "3",
-        title: "微軟TAI一日實習生",
+        title: "Microsoft TAI一日實習生",
         content:
           "活動中教了我們使用Azure Custom Vision，來識別圖片中的物體，這個雲端服務把圖片識別的模型訓練弄得非常簡單，在之後的分組活動也讓我們運用這個服務並上台報告成果。這個活動讓我審視自己是否合適技術助理這個工作，以及之後專題資料庫架設時，就是使用活動推薦使用的azure student雲端服務中的資料庫服務來架設。",
         img: "../../images/event/TAI.jpg",
@@ -33,7 +33,7 @@ class Activity extends Component {
       },
       {
         id: "5",
-        title: "志工服務 - 返鄉服務隊輔組組長",
+        title: "Volunteer Service - counselor",
         content:
           "帶著學弟妹，寒假期間到美濃的東門國小。帶著小朋友們上手作課程以及進行戶外大地遊戲。身為隊輔組長，學期中每次開會、籌會針對每位組員的需要，給予不同方面的建議。",
         img: "../../images/event/KH.jpg",

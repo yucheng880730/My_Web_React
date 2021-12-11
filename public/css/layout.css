@@ -231,9 +231,9 @@ ul#nav li.current a {
 }
 #about .profile-pic {
   position: relative;
-  width: 120px;
-  height: 120px;
-  border-radius: 100%;
+  width: 150px;
+  height: 200px;
+  border-radius: 10px;
 }
 #about .contact-details {
   width: 41.66667%;
@@ -1144,6 +1144,14 @@ footer .social-links li:first-child {
   margin-right: 10%;
 } */
 
+.events-title {
+  word-wrap: break-word;
+}
+
+.events-content {
+  word-wrap: break-word;
+}
+
 .header-text-background {
   background-color: rgba(255, 255, 255, 0.5);
 }
@@ -1179,7 +1187,7 @@ footer .social-links li:first-child {
 /* i. RWD 響應是網頁
 /* ------------------------------------------------------------------ */
 
-@media only screen and (max-width: 769px) {
+@media only screen and (max-width: 770px) {
   .big-imgs {
     display: block;
     width: 65%;

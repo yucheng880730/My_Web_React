@@ -1,6 +1,6 @@
 {
   "main": {
-    "name": "林祐丞",
+    "name": "林祐丞 Leo",
     "occupation": "學生",
     "description": "我目前就讀於政大資管所科技組碩一，對深入瞭界業界和實際參與業務有興趣。想要把握碩士兩年的時間，多參加各種企業活動，並有機會能去業界實習找到未來努力的方向 !!",
     "image": "profilepic.jpg",
@@ -10,8 +10,8 @@
     "phone": "0989185702",
     "address": {
       "street": "美賢街56號16樓",
-      "city": "鼓山區",
-      "state": "高雄市",
+      "city": "Gushan",
+      "state": "Kaohsiung",
       "zip": "804051"
     },
     "website": "http://www.timbakerdev.com",
@@ -48,15 +48,15 @@
     "skillmessage": "",
     "education": [
       {
-        "school": "國立政治大學",
-        "degree": "資訊管理碩士",
-        "graduated": "2023年6月",
+        "school": "National Chengchi University",
+        "degree": "Management Information System, Master",
+        "graduated": "2023 Jun",
         "description": "目前為碩一生，正在學習區塊鏈應用領域並開始接觸網頁技術，用javascript串web3js來完成乙太坊的應用。"
       },
       {
-        "school": "國立中正大學",
-        "degree": "資訊管理系",
-        "graduated": "2021年6月",
+        "school": "National Chung Cheng University",
+        "degree": "Management Information System, Bachelor",
+        "graduated": "2021 Jun",
         "description": "大學主修資訊管理並也對金融、企管領域有著極大的興趣。除了系上必選修課外，也修了財金系、企管系等外系課程。大學期間接觸了機器學習、資料科學以及數據分析等領域。也獲得資管系『大數據與資料科學學程』，和資工系『程式設計學程』"
       }
     ],
@@ -80,6 +80,28 @@
         "description": "大四時，曾擔任專題的顧問。分別聽各組學弟妹的專題報告，並給予建議。不論是應該擴充什麼功能讓專題更完整，或是有提供一些商業模式給學弟妹參考。"
       }
     ],
+    "certificate": [
+      {
+        "name": "Big Data and Data Science program",
+        "Issuing": "National Chung Cheng University MIS",
+        "years": "2021"
+      },
+      {
+        "name": "Programming program",
+        "Issuing": "National Chung Cheng University CSIE",
+        "years": "2020"
+      },
+      {
+        "name": "Information Security Engineer - Associate Level",
+        "Issuing": "Ministry of Economic Affairs, R.O.C.",
+        "years": "2020"
+      },
+      {
+        "name": "Big Data Analyst - Associate Level",
+        "Issuing": "Ministry of Economic Affairs, R.O.C.",
+        "years": "2020"
+      }
+    ],
     "skills": [
       {
         "name": "Git",
@@ -94,7 +116,7 @@
         "level": "70%"
       },
       {
-        "name": "ReactJs",
+        "name": "React",
         "level": "60%"
       },
       {
