@@ -1,15 +1,15 @@
 {
   "main": {
-    "name": "林祐丞 Leo",
-    "occupation": "學生",
-    "description": "我目前就讀於政大資管所科技組碩一，對深入瞭界業界和實際參與業務有興趣。想要把握碩士兩年的時間，多參加各種企業活動，並有機會能去業界實習找到未來努力的方向 !!",
+    "name": "Yucheng Lin",
+    "occupation": "Student",
+    "description": "I am interested in deepening the industry and actually participating in the business. I want to seize the two-year master's time, participate in various corporate activities, and have the opportunity to go to the industry for internships to find the direction of future efforts!!",
     "image": "profilepic.jpg",
-    "bio": "我是個活潑外向、樂於助人、並且喜歡嘗試新事物的人。大學期間參與了許多社團與系上的活動，學習了如何辦好活動與團隊溝通的技能。",
+    "bio": "Junior Web Developer / Blockchain Engineer specializing in front end development and developing some DApp. Experienced with React library and writing some smart contracts deployed on web projects. Well-versed in numerous programming languages including HTML5, java OOP, node.js, python. Passionate about learning new technology, my strength is equipped with good communication skills and have lots of teamwork experience. During the graduate school I keep learning more technical about blockchain and k8s architecture.",
     "contactmessage": "如果對我想了解更多，歡迎聯絡我!",
     "email": "yucheng2k13@gmail.com",
     "phone": "0989185702",
     "address": {
-      "street": "美賢街56號16樓",
+      "street": "Meixian St. No.56 16F",
       "city": "Gushan",
       "state": "Kaohsiung",
       "zip": "804051"
@@ -51,31 +51,31 @@
         "school": "National Chengchi University",
         "degree": "Management Information System, Master",
         "graduated": "2023 Jun",
-        "description": "目前為碩一生，正在學習區塊鏈應用領域並開始接觸網頁技術，用javascript串web3js來完成乙太坊的應用。"
+        "description": ""
       },
       {
         "school": "National Chung Cheng University",
         "degree": "Management Information System, Bachelor",
         "graduated": "2021 Jun",
-        "description": "大學主修資訊管理並也對金融、企管領域有著極大的興趣。除了系上必選修課外，也修了財金系、企管系等外系課程。大學期間接觸了機器學習、資料科學以及數據分析等領域。也獲得資管系『大數據與資料科學學程』，和資工系『程式設計學程』"
+        "description": ""
       }
     ],
     "work": [
       {
-        "company": "國立中正大學資管系",
-        "title": "人工智慧與專家系統 - 課程助教",
+        "company": "CCU MIS",
+        "title": "Artificial Intelligence and Expert System - Course Assistant",
         "years": "2021.02 - 2021.06",
         "description": "負責批改同學們的作業，在大家開始期末報告前，示範報告一個人工智慧的程式應用。我報告使用機器學習預測airbnb新用戶可能旅遊的地點，詳細可見作品集。"
       },
       {
-        "company": "國立中正大學資管系",
-        "title": "Python語言程式設計 - 課程助教",
+        "company": "CCU MIS",
+        "title": "Python Programming Language - Course Assistant",
         "years": "2020.09 - 2021.01",
         "description": "幫老師出python程式的作業，並引導同學了解題意以及最後的批改，期末報告和老師一同評分，並給予同學建議其程式可以如何做延伸。且當外系同學有困難給予協助或找資料使其可以參考"
       },
       {
-        "company": "國立中正大學資管系",
-        "title": "資管系系辦工讀",
+        "company": "CCU MIS",
+        "title": "Department Office part-time worker",
         "years": "part time",
         "description": "大四時，曾擔任專題的顧問。分別聽各組學弟妹的專題報告，並給予建議。不論是應該擴充什麼功能讓專題更完整，或是有提供一些商業模式給學弟妹參考。"
       }

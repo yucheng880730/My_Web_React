@@ -1163,7 +1163,7 @@ footer .social-links li:first-child {
 
 .big-imgs,
 .box {
-  margin-left: 30%;
+  margin-left: 25%;
   display: inline-block; /* make them in one line */
   word-wrap: break-word; /* break very long words */
   vertical-align: middle; /* vertical centering */
@@ -1188,7 +1188,8 @@ footer .social-links li:first-child {
 /* i. RWD 響應是網頁
 /* ------------------------------------------------------------------ */
 
-@media only screen and (max-width: 750px) {
+/* IPhone 10 */
+@media only screen and (max-width: 460px) {
   .big-imgs {
     display: block;
     width: 65%;
@@ -1204,8 +1205,40 @@ footer .social-links li:first-child {
   }
 
   .events-content {
-    padding-right: 1pc;
-    width: 350px;
+    padding-left: 5px;
+    padding-right: unset;
+    width: 300px;
     word-wrap: break-word;
+  }
+
+  .bars .skills {
+    width: 300px;
+  }
+}
+
+/* Iphone SE */
+@media only screen and (max-width: 350px) {
+  .big-imgs {
+    display: block;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .events-title {
+    padding-right: 2px;
+    word-wrap: break-word;
+    text-align: center;
+    font-size: 25px;
+  }
+
+  .events-content {
+    padding-right: unset;
+    width: 280px;
+    word-wrap: break-word;
+  }
+
+  .bars .skills {
+    width: 250px;
   }
 }
