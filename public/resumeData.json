@@ -2,9 +2,9 @@
   "main": {
     "name": "Yucheng Lin",
     "occupation": "Student",
-    "description": "I am interested in deepening the industry and actually participating in the business. I want to seize the two-year master's time, participate in various corporate activities, and have the opportunity to go to the industry for internships to find the direction of future efforts!!",
+    "description": "Interested in in-depth understanding of the industry and actually participating in the business. I want to seize the two-year master's time, participate in various corporate activities, and have the opportunity to go in the industry for internships !!",
     "image": "profilepic.jpg",
-    "bio": "Junior Web Developer / Blockchain Engineer specializing in front end development and developing some DApp. Experienced with React library and writing some smart contracts deployed on web projects. Well-versed in numerous programming languages including HTML5, java OOP, node.js, python. Passionate about learning new technology, my strength is equipped with good communication skills and have lots of teamwork experience. During the graduate school I keep learning more technical about blockchain and k8s architecture.",
+    "bio": "Junior Web Developer / Blockchain Engineer Specialized in front end development and developing some DApp. Experienced with React library and I am keen on writing some smart contracts deployed on web projects. Well-versed in numerous programming languages including HTML5, java OOP, node.js, python. Passionate about learning new technology. My strength is equipped with good communication skills and have lots of teamwork experience. During the graduate school I keep learning more techniques about blockchain and k8s architecture.",
     "contactmessage": "如果對我想了解更多，歡迎聯絡我!",
     "email": "yucheng2k13@gmail.com",
     "phone": "0989185702",
@@ -15,7 +15,7 @@
       "zip": "804051"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload": "https://www.cakeresume.com/yucheng2k13",
+    "resumedownload": "LeoCV.pdf",
     "social": [
       {
         "name": "facebook",
@@ -65,19 +65,19 @@
         "company": "CCU MIS",
         "title": "Artificial Intelligence and Expert System - Course Assistant",
         "years": "2021.02 - 2021.06",
-        "description": "負責批改同學們的作業，在大家開始期末報告前，示範報告一個人工智慧的程式應用。我報告使用機器學習預測airbnb新用戶可能旅遊的地點，詳細可見作品集。"
+        "description": "Responsible for correcting the students’ homework. Before everyone starts the final report, demonstrate an artificial intelligence program application。The program I demo using machine learning to predict the locations where new airbnb users may travel."
       },
       {
         "company": "CCU MIS",
         "title": "Python Programming Language - Course Assistant",
         "years": "2020.09 - 2021.01",
-        "description": "幫老師出python程式的作業，並引導同學了解題意以及最後的批改，期末報告和老師一同評分，並給予同學建議其程式可以如何做延伸。且當外系同學有困難給予協助或找資料使其可以參考"
+        "description": "Scoring the final report with teacher, And give students suggestions on how to extend the program. When students from different major have some problem give them enough assistance."
       },
       {
         "company": "CCU MIS",
         "title": "Department Office part-time worker",
         "years": "part time",
-        "description": "大四時，曾擔任專題的顧問。分別聽各組學弟妹的專題報告，並給予建議。不論是應該擴充什麼功能讓專題更完整，或是有提供一些商業模式給學弟妹參考。"
+        "description": "Acting as a graduate project consultant, listening to the reports of each group and giving suggestions. No matter what functions should be expanded to make the project more complete, or provided some business models for each group to reference"
       }
     ],
     "certificate": [
@@ -105,7 +105,7 @@
     "skills": [
       {
         "name": "Git",
-        "level": "60%"
+        "level": "70%"
       },
       {
         "name": "Java",
@@ -113,11 +113,11 @@
       },
       {
         "name": "JavaScript",
-        "level": "70%"
+        "level": "80%"
       },
       {
         "name": "React",
-        "level": "60%"
+        "level": "70%"
       },
       {
         "name": "CSS",
