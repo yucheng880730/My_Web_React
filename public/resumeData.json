@@ -65,7 +65,7 @@
         "company": "CCU MIS",
         "title": "Artificial Intelligence and Expert System - Course Assistant",
         "years": "2021.02 - 2021.06",
-        "description": "Responsible for correcting the students’ homework. Before everyone starts the final report, demonstrate an artificial intelligence program application。The program I demo using machine learning to predict the locations where new airbnb users may travel."
+        "description": "Responsible for correcting the students’ homework. Before everyone starts the final report, demonstrate an artificial intelligence program application. The program I demo using machine learning to predict the locations where new airbnb users may travel."
       },
       {
         "company": "CCU MIS",
@@ -77,7 +77,7 @@
         "company": "CCU MIS",
         "title": "Department Office part-time worker",
         "years": "part time",
-        "description": "Acting as a graduate project consultant, listening to the reports of each group and giving suggestions. No matter what functions should be expanded to make the project more complete, or provided some business models for each group to reference"
+        "description": "Acting as a graduate project consultant, listening to the reports of each group and giving suggestions. No matter what functions should be expanded to make the project more completed, or provided some business models for each group to reference."
       }
     ],
     "certificate": [
@@ -170,10 +170,10 @@
         "url": "https://github.com/yucheng880730/Airbnb_predict"
       },
       {
-        "title": "空氣因子影響台灣旅遊業",
-        "category": "SAS statistic",
-        "image": "air.jpg",
-        "url": "http://www.timbakerdev.com"
+        "title": "Memory-k8s",
+        "category": "kubernetes architecture",
+        "image": "memory.jpg",
+        "url": "https://github.com/dabaoku/Memory-K8s"
       }
     ]
   },
