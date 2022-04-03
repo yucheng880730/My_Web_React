@@ -82,6 +82,21 @@
     ],
     "certificate": [
       {
+        "name": "Smart Contracts",
+        "Issuing": "University at Buffalo via Coursera",
+        "years": "2022"
+      },
+      {
+        "name": "Blockchain Basics",
+        "Issuing": "University at Buffalo via Coursera",
+        "years": "2022"
+      },
+      {
+        "name": "Ethereum and Solidity: Complete Developer's Guide",
+        "Issuing": "Udemy",
+        "years": "2021"
+      },
+      {
         "name": "Big Data and Data Science program",
         "Issuing": "National Chung Cheng University MIS",
         "years": "2021"
@@ -109,11 +124,15 @@
       },
       {
         "name": "Java",
-        "level": "90%"
+        "level": "80%"
       },
       {
         "name": "JavaScript",
         "level": "80%"
+      },
+      {
+        "name": "Solidity",
+        "level": "85%"
       },
       {
         "name": "React",
@@ -129,7 +148,7 @@
       },
       {
         "name": "MongoDB",
-        "level": "50%"
+        "level": "60%"
       },
       {
         "name": "MySQL",
@@ -142,10 +161,6 @@
       {
         "name": "R",
         "level": "70%"
-      },
-      {
-        "name": "SAS",
-        "level": "50%"
       }
     ]
   },
