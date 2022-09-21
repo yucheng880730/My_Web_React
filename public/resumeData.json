@@ -62,35 +62,43 @@
     ],
     "work": [
       {
-        "company": "IBM",
+        "company": "LINE Corporation",
+        "title": "Software Engineering Intern",
+        "years": "2022.08 - 2023.06",
+        "description": "Developing E2E and API test automation program with Cypress.js framework. And improving CI/CD process of Jenkins pipeline and maintaining automation script."
+      },
+      {
+        "company": "International Business Machines Corporation (IBM)",
         "title": "Associate Application Consultant Intern",
-        "years": "2022.07 - 2022.08"
+        "years": "2022.07 - 2022.08",
+        "description": "Built and created test cases to ensure maximum testing scenarios meet all required specification. Also assisted analyze business requirements to create systems requirements documentation, process flows and performs systems impact analysis. Engaged in the QA Team research project of IBM iX."
       },
       {
         "company": "M1 Marketing Inc.",
-        "title": "Backend developer Intern",
-        "years": "2022.06 - now"
+        "title": "Software Engineering Intern",
+        "years": "2022.06 - now",
+        "description": "Developed a Line Bot using Line nodejs SDK and LIFF framework that show users NFT assets. Engaged in blockchain private key management solution (CYBAVO VAULT) research."
       },
       {
-        "company": "DiverSoulty Card Organiztion",
-        "title": "smart contract developer",
+        "company": "Merkle Tec (preparatory stage)",
+        "title": "Co-Founder & Blockchain Consultant",
         "years": "2022.02 - now",
-        "description": "Startup case company launches NFT project for clients. I am responsible for writing smart contracts and also responsible for negotiating the demand and definiteing the price"
+        "description": "Startup case company launches NFT project for clients. I am responsible for writing smart contracts and also responsible for negotiating the demand and definiteing the price."
       },
       {
-        "company": "NCCU MIS",
+        "company": "National Chengchi University MIS",
         "title": "Digital Innovation Salon NCCU X IBM - Course Assistant",
         "years": "2022.04 - now",
-        "description": "Discuss with IBM consultant about the course content and teaching style of last semester, and modify the course content of the new semester."
+        "description": "Discuss with IBM consultant about the course content and teaching style of last semester, and modify the course content of the new semester. Assisted Students come up with final hackathon topics and give suggestion about the content."
       },
       {
-        "company": "CCU MIS",
+        "company": "National Chung Cheng University MIS",
         "title": "Artificial Intelligence and Expert System - Course Assistant",
         "years": "2021.02 - 2021.06",
         "description": "Responsible for correcting the students’ homework. Before everyone starts the final report, demonstrate an artificial intelligence program application. The program I demo using machine learning to predict the locations where new airbnb users may travel."
       },
       {
-        "company": "CCU MIS",
+        "company": "National Chung Cheng University MIS",
         "title": "Python Programming Language - Course Assistant",
         "years": "2020.09 - 2021.01",
         "description": "Scoring the final report with teacher, And give students suggestions on how to extend the program. When students from different major have some problem give them enough assistance."
